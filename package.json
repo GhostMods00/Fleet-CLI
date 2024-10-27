@@ -1,0 +1,26 @@
+{
+  "name": "fleet-cli",
+  "version": "1.0.0",
+  "description": "Vehicle Builder CLI Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GhostMods00/Fleet-CLI.git"
+  },
+  "author": "Waleed Zaryab",
+  "license": "ISC",
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/GhostMods00/Fleet-CLI/issues"
+  },
+  "homepage": "https://github.com/GhostMods00/Fleet-CLI#readme",
+  "dependencies": {
+    "inquirer": "^12.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
+}
